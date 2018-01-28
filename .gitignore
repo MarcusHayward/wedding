@@ -1,0 +1,8 @@
+.env
+/public/bundles/
+/var/
+/vendor/
+/public/.DS_Store
+.DS_Store
+.idea/
+.idea/workspace.xml
